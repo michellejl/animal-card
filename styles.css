@@ -1,0 +1,42 @@
+body {
+  background: #416d91;
+  color: darkslategray;
+}
+#wrapper {
+  border: 3px solid darkslategray;
+  border-radius: 5px;
+  margin: 15vh auto;
+  padding: 10px;
+  width: 300px;
+  box-shadow: 10px 10px 2px rgba(0, 0, 0, 0.2);
+  background: white;
+}
+
+#information {
+border: 1px solid lightgrey;
+
+padding: 0 10px 10px;
+margin: 10px 0 0
+}
+
+h3 {
+  font-size: 30px;
+}
+
+img {
+  width: 300px;
+}
+
+.fact {
+  font-style: italic;
+}
+
+#facts-list {
+  list-style-type: none;
+  list-style-position: outside;
+  padding: 0;
+}
+
+#facts-list span {
+  font-weight: bold;
+}
